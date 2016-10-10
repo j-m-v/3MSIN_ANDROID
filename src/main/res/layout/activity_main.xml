@@ -15,7 +15,6 @@
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
         android:ems="10"
-        android:id="@+id/editText11"
         android:text="Cadastro do Aluno"
         android:singleLine="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Caption"
@@ -47,7 +46,6 @@
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
             android:ems="10"
-            android:id="@+id/editText3"
             android:layout_weight="1" />
 
     </LinearLayout>
@@ -71,7 +69,6 @@
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
             android:ems="10"
-            android:id="@+id/editText3"
             android:layout_weight="1" />
 
     </LinearLayout>
@@ -97,7 +94,6 @@
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
             android:ems="10"
-            android:id="@+id/editText3"
             android:layout_weight="1" />
 
     </LinearLayout>

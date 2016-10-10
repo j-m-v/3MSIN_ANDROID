@@ -2,4 +2,7 @@
     <string name="app_name">Had An Ideia</string>
     <string name="buscar_curso">nome do curso</string>
     <string name="botao_busca">Buscar</string>
+    <string name="label_cliente_nome">Nome:</string>
+    <string name="label_cliente_fone">Descrição:</string>
+    <string name="label_cliente_email">Duração:</string>
 </resources>

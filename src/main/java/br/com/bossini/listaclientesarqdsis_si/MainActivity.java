@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         nome = (EditText)findViewById(R.id. busca_nome_cliente );
     }
     public void buscarClientes(View view){
-        Intent intent = new Intent(this, ListaCursosActivity.class);
+        Intent intent = new Intent(this, ListaClientesActivity.class);
         String chave = nome.getText().toString();
         intent.putExtra( CHAVE , chave);
         startActivity(intent);
